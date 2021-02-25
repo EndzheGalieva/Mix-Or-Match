@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6d52a9f-831a-4ea9-b7c2-834d4f9c7779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/creepy.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/flip.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/gameOver.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/match.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/victory.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Cursors/Ghost.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Cursors/GhostHover.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Creepy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Creepy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Lunacy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Lunacy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Bat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Bones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/CardBack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Cauldron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Cobweb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/CobwebGrey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Dracula.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Ghost.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Pumpkin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Skull.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/Spider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -60,8 +39,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614260955320</updated>
-      <workItem from="1614260956444" duration="8725000" />
+      <workItem from="1614260956444" duration="20729000" />
     </task>
+    <task id="LOCAL-00001" summary="Added styles">
+      <created>1614269812364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614269812365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added styles" />
   </component>
 </project>
